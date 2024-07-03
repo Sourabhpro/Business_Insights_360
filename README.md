@@ -7,17 +7,17 @@ Link to report - (https://app.powerbi.com/view?r=eyJrIjoiODc0MjQ2OTctZTY3MC00NmU
 
 ## Tools Used
 
-SQL
-Power BI Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
+- SQL
+- Power BI Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
 
 ## Domain Knowledge
-Finance
-Sales
-Marketing
-Supply Chain
+- Finance
+- Sales
+- Marketing
+- Supply Chain
 
 ## Business related terms
 
