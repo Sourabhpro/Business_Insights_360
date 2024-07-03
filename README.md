@@ -21,25 +21,6 @@ Supply Chain
 
 ## Business related terms
 
-Gross price
-Pre-invoice deductions
-Post-Invoice deductions
-Net Invoice sale
-Gross Margin
-Net sales
-Net profit
-COGC - cost of goods sold
-YTD - Year to Date
-YTG - Year to Go
-Direct
-Retailer
-Distributors
-Consumer
-
-## Company’s background
-
-## Business related terms
-
 - Gross price
 - Pre-invoice deductions
 - Post-Invoice deductions
